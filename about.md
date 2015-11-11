@@ -6,10 +6,10 @@ permalink: /about/
 
 I don't have much yet
 
-### More Information
+#### More Information
 
 
 
-### Contact me
+#### Contact me
 
 [chasewright@outlook.com](mailto:chasewright@outlook.com)
